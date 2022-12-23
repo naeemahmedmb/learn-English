@@ -1,0 +1,8 @@
+
+      #example1 {
+        background-image: url(img/cover\ lr.png);
+        background-position: center;
+        background-repeat: no-repeat, repeat;
+        padding: 150px;
+      }
+      
